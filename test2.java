@@ -1,4 +1,5 @@
-public class test2{
+public class Test2{
+    //linear navigation Algorithm
     public static void main(String[] args) {
         
         int[] num = {10,55,23,2,79,101,16,82,30,45};
@@ -21,8 +22,8 @@ public class test2{
                 maxPos = i+1;
             }
         }
-        System.out.println("가장 작은 값은"+ min + " 이며 위치는 " + minPos + "입니다.");
-        System.out.println("가장 작은 값은"+ max + " 이며 위치는 " + maxPos + "입니다.");
+        System.out.println("가장 작은 값은 "+ min + " 이며 위치는 " + minPos + "입니다.");
+        System.out.println("가장 작은 값은 "+ max + " 이며 위치는 " + maxPos + "입니다.");
     }
 
 }
