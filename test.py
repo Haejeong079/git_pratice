@@ -1,2 +1,2 @@
-print("hello world")
-print("hi")
+print("Hello Wolrd")
+print("연습용")
