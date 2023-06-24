@@ -22,7 +22,7 @@ public class test2{
             }
         }
         System.out.println("가장 작은 값은"+ min + " 이며 위치는 " + minPos + "입니다.");
-        System.out.println("가장 큰 값은"+ max + " 이며 위치는 " + maxPos + "입니다.");
+        System.out.println("가장 작은 값은"+ max + " 이며 위치는 " + maxPos + "입니다.");
     }
 
 }
